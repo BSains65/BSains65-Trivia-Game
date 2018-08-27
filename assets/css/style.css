@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	background-image: url(../images/Bald\ Eagle.jpg)
+}
+
+body {
+	background-image: url(../images/Bald\ Eagle.jpg)
+}
+
+header, .wrapper {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+header {
+background-color: red;
+color: blue;
+}
+
+.wrapper {
+	background-color: blue;
+	color: red;
+	margin: auto;
+	height: 100%;
+	width: 75%;
+}
